@@ -1,4 +1,3 @@
-
 CREATE TABLE backers
 (
   backer_id  varchar(10)  NOT NULL,
