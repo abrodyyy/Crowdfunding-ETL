@@ -13,8 +13,3 @@ Deliverable 4: SQL Analysis
 ## Resources
 - Data Source: [backer_info](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/departments.csv)
 - Software: [PostgreSQL 15.1](https://www.postgresql.org/docs/current/release-15-1.html), [pgAdmin 4](https://www.pgadmin.org/download/), [Visual Studio Code, 1.70.2](https://code.visualstudio.com/updates/v1_70), [Quick DBD, 1.70.2](https://www.quickdatabasediagrams.com), [Python 3.9.12](https://www.python.org/downloads/release/python-3912/), [Jupyter Notebook 6.4.8](https://jupyter-notebook.readthedocs.io/_/downloads/en/v6.4.8/pdf/)
-
-
-## Results
-
-## Summary
